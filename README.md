@@ -102,6 +102,20 @@ jupyter notebook Credit-risk.ipynb
 
 ---
 
+## 📊 Ek Görselleştirme — Power BI Dashboard
+
+Veri setinin interaktif görselleştirmesi için Power BI dashboard'u hazırlanmıştır.
+
+| Alan | Bilgi |
+|------|-------|
+| **Dosya** | `dashboard/Credit_Risk_Dashboard.pbix` |
+| **Araç** | Microsoft Power BI Desktop |
+| **İçerik** | Kredi riski dağılımı, müşteri segmentleri, risk metrikleri |
+
+> ⚠️ Açmak için [Power BI Desktop](https://powerbi.microsoft.com/desktop/) gereklidir (ücretsiz).
+
+---
+
 ## 🤖 AI Kullanımı
 
 Bu proje AI yardımıyla geliştirilmiştir. Geliştirme sürecinde kullanılan tüm AI promptları kronolojik sırayla `prompt_log.md` dosyasında belgelenmiştir.
