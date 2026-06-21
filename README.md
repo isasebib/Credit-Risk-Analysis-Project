@@ -23,6 +23,8 @@ credit-risk-analysis/
 ├── prompt_log.md           # Geliştirme sürecinde kullanılan AI promptları
 ├── rapor.pdf               # Kısa rapor (3-5 sayfa, Türkçe)
 └── README.md               # Bu dosya
+└── dashboard/
+    └── Credit_Risk_Dashboard.pbix   # Power BI interaktif dashboard (ek çalışma)
 ```
 
 ---
