@@ -17,14 +17,21 @@
 ## 📁 Proje Yapısı
 
 ```
-credit-risk-analysis/
+Veri-Bilimi-Final-Projesi/
 │
-├── Credit-risk.ipynb       # Ana notebook (EDA, modelleme, bulgular)
-├── prompt_log.md           # Geliştirme sürecinde kullanılan AI promptları
-├── rapor.pdf               # Kısa rapor (3-5 sayfa, Türkçe)
-└── README.md               # Bu dosya
-└── dashboard/
-    └── Credit_Risk_Dashboard.pbix   # Power BI interaktif dashboard (ek çalışma)
+├── notebooks/
+│   └── credit_risk_nb.ipynb           # Ana notebook (EDA, modelleme, bulgular)
+│
+├── datasets/
+│   ├── raw_credit_risk_dataset.csv    # Ham veri seti (Kaggle'dan indirilen)
+│   └── processed_dataset.csv         # Temizlenmiş ve özellik mühendisliği uygulanmış veri
+│
+├── dashboards/
+│   └── Credit Risk Dashboard.pbix    # Power BI interaktif dashboard (ek çalışma)
+│
+├── Project-Report.pdf                # Kısa rapor (3-5 sayfa, Türkçe)
+├── prompt_log.md                     # Geliştirme sürecinde kullanılan AI promptları
+└── README.md                         # Bu dosya
 ```
 
 ---
