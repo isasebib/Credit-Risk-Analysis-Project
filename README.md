@@ -21,8 +21,6 @@ Credit-Risk-Analysis-Project/
 ├── dashboards/
 │   └── Credit Risk Dashboard.pbix     # Interactive Power BI dashboard for visual analytics[cite: 1]
 │
-├── Project-Report.pdf                 # Concise 3-5 page project summary report (in Turkish)[cite: 1]
-├── prompt_log.md                      # Chronological log of AI prompts utilized during development[cite: 1]
 └── README.md                          # Project documentation[cite: 1]
 
 ```
